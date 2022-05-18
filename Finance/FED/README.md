@@ -24,3 +24,14 @@ It was created on December 23, 1913, with the enactment of the Federal Reserve A
 (B2) a time of great disagreement, confusion, or suffering.  
 **in crisis** experiencing a time of great difficulty, danger, or suffering.  
 - It's important for families in crisis to know they are not alone.
+
+**depression** noun UNHAPPINESS
+**depression** noun NO ACTIVITY  
+(C2) a period in which there is very little business activity and not many jobs.  
+- The stock market crash marked the start of a severe depression.  
+
+**recession** noun   
+(B2) a period when the economy of a country is not successful and conditions for business are bad.  
+
+**expansion** noun  
+(B2) the increase of something in size, number, or importance.
